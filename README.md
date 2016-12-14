@@ -1,8 +1,7 @@
 # exoSurvey
 
-#
-### Usage: nohup bash path_to_exosurvey.sh &>> /dev/null &
-#
+#### Usage: nohup bash path_to_exosurvey.sh &>> /dev/null &
+
  obj.txt includes all the fields of interests.
  obj.dat lists the field currently under observation.
 ---
@@ -11,11 +10,11 @@
  THERE IS NO NEED TO ADD BLANK LINES TO THESE FILES!!!!
 ---
 ```
- ------ obj. FORMAT -------
- ra dec exptime(ms) nframes objname repointinterval(min)
- rpdt    30    # repointing time interval in min
- exptime 5000  # exposure time in ms
- nf      10    # number of frames for each field
+# ------ obj. FORMAT -------
+# ra dec exptime(ms) nframes objname repointinterval(min)
+# rpdt    30    # repointing time interval in min
+# exptime 5000  # exposure time in ms
+# nf      10    # number of frames for each field
 ```
 ```
 # ------ script options -------
