@@ -4,10 +4,13 @@
 
  obj.txt includes all the fields of interests.
  obj.dat lists the field currently under observation.
+ 
 ---
- Make sure this script and obj files are in the same folder!
- i.e. NJUPREFIX
- THERE IS NO NEED TO ADD BLANK LINES TO THESE FILES!!!!
+
+Make sure this script and obj files are in the same folder!
+i.e. NJUPREFIX
+THERE IS NO NEED TO ADD BLANK LINES TO THESE FILES!!!!
+
 ---
 ```
 # ------ obj. FORMAT -------
